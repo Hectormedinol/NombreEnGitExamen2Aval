@@ -1,0 +1,1 @@
+grep consumos.txt| awk '{print $4}'
